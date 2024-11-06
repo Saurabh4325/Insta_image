@@ -16,7 +16,6 @@ Before you begin, ensure you have the following tools installed on your system:
 
 1. **Google Chrome**: The most popular browser for automation.  
 2. **Python**: The programming language we'll use for the script.  
-   👉 [Download Python here](https://www.python.org/downloads/)
 3. **IDE**: Use any preferred IDE like **VS Code** to write and execute your code.
 
 ---
