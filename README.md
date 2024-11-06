@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/90f08b30-2010-4ad5-8a1d-f6a545c3d669
 
 ## Inspired by this video😂
 <div align="center">
-    https://github.com/user-attachments/assets/e36e4395-4c57-4c2c-9435-d05a3185601c
+https://github.com/user-attachments/assets/e36e4395-4c57-4c2c-9435-d05a3185601c
 </div>
 
 
