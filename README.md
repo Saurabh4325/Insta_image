@@ -25,10 +25,16 @@ Before you begin, ensure you have the following tools installed on your system:
 To install the necessary libraries for this project, run the following commands in your terminal:
 
 ```bash
-
-
 pip install selenium wget
 ```
+```bash
+py insta.py
+```
+or for mac
+```
+python3 insta.py
+```
+
 ## 📺 Video tutorial
 https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
 
