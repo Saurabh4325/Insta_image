@@ -4,7 +4,7 @@ Selenium is a powerful tool for automating web browsers. In this project, we wil
 
 ---
 
-## 💖 Download Profile Images of Your Crush/Girlfriend/Boyfriend 💕
+## 💖 Download Profile Images of Your Crush💕/Girlfriend❤️/Boyfriend😎
 
 Want to save those cute profile pictures of your crush, girlfriend, or boyfriend? Here's how you can do it using Selenium automation. Follow these steps to get started. 🚀
 
