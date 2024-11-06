@@ -1,10 +1,10 @@
-# 🌟 Selenium - An Automation Tool 🌟
+#  Selenium - An Automation Tool 
 
 Selenium is a powerful tool for automating web browsers. In this project, we will use Selenium to automate the process of downloading profile images from social media profiles. 😎💻
 
 ---
 
-## 💖 Download Profile Images of Your Crush💕/Girlfriend❤️/Boyfriend😎
+## Download Profile Images of Your Crush💕/Girlfriend❤️/Boyfriend😎
 
 Want to save those cute profile pictures of your crush, girlfriend, or boyfriend? Here's how you can do it using Selenium automation. Follow these steps to get started. 🚀
 
