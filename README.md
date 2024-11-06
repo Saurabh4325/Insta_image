@@ -27,3 +27,8 @@ To install the necessary libraries for this project, run the following commands 
 
 ```bash
 pip install selenium wget
+```
+## Video tutorial
+https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
+
+
