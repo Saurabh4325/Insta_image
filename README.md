@@ -1,6 +1,8 @@
 # Selenium - An Automation Tool
 
-Selenium is a powerful tool for automating web browsers. This project uses Selenium for automated web tasks.
+Selenium is a powerful tool for automating web browsers. This project uses Selenium for download profile images.
+
+## Download profile of your crush💕/girlfriend❤️/boyfriend😎
 
 ## Prerequisites
 
