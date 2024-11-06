@@ -18,5 +18,6 @@ Install Selenium and wget by running:
 pip install selenium wget
 ```
 https://github.com/user-attachments/assets/656c8ffb-0144-406d-a132-7f220ed6b975
-####wait for automation and after check downloaded_images folder
+
+#### wait for automation and after check downloaded_images folder
 
