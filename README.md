@@ -30,7 +30,7 @@ pip install selenium wget
 ```bash
 py insta.py
 ```
-or for mac
+for macOS
 ```
 python3 insta.py
 ```
