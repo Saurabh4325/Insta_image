@@ -1,12 +1,12 @@
 #  Selenium - An Automation Tool 
 
-Selenium is a powerful tool for automating web browsers. In this project, we will use Selenium to automate the process of downloading profile images from social media profiles. 😎💻
+Selenium is a powerful tool for automating web browsers. In this project use Selenium to automate the process of downloading profile images from Instagram. 😎💻
 
 ---
 
 ## Download Profile Images of Your Crush💕/Girlfriend❤️/Boyfriend😎
 
-Want to save those cute profile pictures of your crush, girlfriend, or boyfriend? Here's how you can do it using Selenium automation. Follow these steps to get started. 🚀
+Want to save those cute profile pictures of your crush, girlfriend, or boyfriend?😍 Follow these steps to get started. 🚀
 
 ---
 
@@ -29,8 +29,13 @@ To install the necessary libraries for this project, run the following commands 
 
 pip install selenium wget
 ```
-## Video tutorial
+## 📺 Video tutorial
 https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
 
 ## How to find your Instagram password
 https://github.com/user-attachments/assets/90f08b30-2010-4ad5-8a1d-f6a545c3d669
+
+## Inspired by this video😂
+https://github.com/user-attachments/assets/e36e4395-4c57-4c2c-9435-d05a3185601c
+
+
