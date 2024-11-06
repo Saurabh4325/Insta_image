@@ -25,9 +25,12 @@ Before you begin, ensure you have the following tools installed on your system:
 To install the necessary libraries for this project, run the following commands in your terminal:
 
 ```bash
+
+
 pip install selenium wget
 ```
 ## Video tutorial
 https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
 
-
+## How to find your Instagram password
+https://github.com/user-attachments/assets/90f08b30-2010-4ad5-8a1d-f6a545c3d669
