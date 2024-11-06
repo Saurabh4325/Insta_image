@@ -15,3 +15,7 @@ Before starting, ensure you have the following installed:
 Install Selenium and wget by running:
 ```bash
 pip install selenium wget
+
+
+https://github.com/user-attachments/assets/656c8ffb-0144-406d-a132-7f220ed6b975
+
