@@ -34,9 +34,9 @@ for macOS/linux
 ```
 python3 insta.py
 ```
-###wait for the automation
+### wait for the automation
 
-###check the downloaded_images folder in your pc
+### check the downloaded_images folder in your pc
 
 Working on UI for this same
 
