@@ -34,11 +34,11 @@ for macOS/linux
 ```
 python3 insta.py
 ```
-wait for the automation
+###wait for the automation
 
-check the downloaded_images folder in your pc
+###check the downloaded_images folder in your pc
 
-working on UI for this same
+Working on UI for this same
 
 ## 📺 Video tutorial
 https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
