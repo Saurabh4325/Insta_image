@@ -38,16 +38,10 @@ python3 insta.py
 
 ### check the "downloaded_images" folder in your pc
 
-Working on UI for this same
-
 ## 📺 Video tutorial
 https://github.com/user-attachments/assets/74381865-02fd-4744-95d2-fd7266bfae55
 
-## How to find your Instagram password
-https://github.com/user-attachments/assets/90f08b30-2010-4ad5-8a1d-f6a545c3d669
 
-## Inspired by this video😂
-https://github.com/user-attachments/assets/e36e4395-4c57-4c2c-9435-d05a3185601c
 
 
 
